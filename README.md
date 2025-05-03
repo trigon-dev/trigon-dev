@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a passionate developer who loves to build and explore new technologies. 🚀  
-- 🌱 Currently learning: Cobalt
+
 - 💻 Working on: [Trigonia](https://github.com/trigon-dev/trigonia)
 - ⚡ Fun fact: My favorite color is red
 
