@@ -1,4 +1,4 @@
-# Hi I'm Trigon Dev
+# Hi, I'm Trigon Dev!
 
 ## About Me
 I'm a passionate developer who loves to build and explore new technologies. 🚀  
